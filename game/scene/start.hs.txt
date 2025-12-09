@@ -1,0 +1,8 @@
+changeBg: -next;
+intro:走路中... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:Room.png -next;
+法藍:西爾瓦菈！ -fontSize=large;
+choose:尋找:选择场景文件;
+changeFigure:Faelan 02.png -next;
+法藍:西爾瓦菈不在這裡...。 -fontSize=large;
+choose:街道:start.st.txt|森林:start.wds.txt;
