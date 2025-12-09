@@ -1,0 +1,6 @@
+Game_name:狼的表演 The Wolf's Performance;
+Game_key:c857d3352ac7b08;
+Title_img:Lobbyy.png;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
+Default_Language:zh_TW;
